@@ -11,6 +11,8 @@ Make sure your grub2 contains the grub-mkconfig script (included since version 1
  * libssl-dev OR openssl-devel
  * libarchive-dev OR libarchive-devel
 
+<code># sudo apt install cmake g++ libgtkmm-3.0-dev libgtkmm-2.4-dev gettext libarchive-dev libarchive-dev -y</code>
+
 (The package names may be different, depending on the distribution they are using on)
 
 # step two: download the sources:
